@@ -1,4 +1,4 @@
-# Master Semantic Capability Contract
+# Semantic Capability Contract
 
 ## The problem
 

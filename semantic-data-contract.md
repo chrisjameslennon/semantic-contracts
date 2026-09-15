@@ -1,4 +1,4 @@
-# Master Semantic Data Contract
+# Semantic Data Contract
 
 ## The problem
 
